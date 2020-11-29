@@ -12,8 +12,8 @@ The project was built on Google Colab using Jupyter Notebooks. Hence the code is
   ```bash
   pip install ipynb
   ```
-- Importing a notebook
-  For a file namd test.ipynb:
+- Importing a notebook  
+  For a file named test.ipynb:
   ```python
   import ipynb.fs.full.test
   ```
