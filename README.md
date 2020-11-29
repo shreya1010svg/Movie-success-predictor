@@ -18,11 +18,3 @@ The project was built on Google Colab using Jupyter Notebooks. Hence the code is
   import ipynb.fs.full.test
   ```
  - If you have access to Jupyter Notebooks, simply downloading the add link to code file and opening it in Jupyter Notebooks would do
- 
- ## Files
- - [Dataset](https://github.com/shreya1010svg/Movie-success-predictor/tree/main/Datsets)
- - Literature review
- - Exploratory Data Analysis
- - Code
- - Project Report
- - Project Demostration
